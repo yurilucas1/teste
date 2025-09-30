@@ -1,25 +1,43 @@
 {
-  "name": "FreeTP Source",
-  "description": "Lista de arquivos para Hydra Launcher - adaptado",
+  "name": "onlinefix",
+  "description": "Lista adaptada para Hydra Launcher",
   "version": "1.0",
   "published_at": "2025-09-30",
   "items": [
     {
-      "name": "RuneScape: Dragonwilds",
+      "name": "Moros Protocol 1.0.7.1",
       "platform": "windows",
-      "size": "18.25 GB",
-      "released": "2025-09-23T14:55:00",
-      "description": "Arquivo do RuneScape: Dragonwilds",
-      "tags": ["rpg", "mmorpg", "teste"],
+      "size": "1.2 GB",
+      "released": "2025-09-29T14:09:52.000Z",
+      "description": "Moros Protocol 1.0.7.1 - arquivo de teste",
+      "tags": ["rpg", "teste"],
       "links": [
         {
           "type": "magnet",
-          "url": "magnet:?xt=urn:btih:YJ5BSOPLEDNEHOP5OMBXGZPJUO7CE3WO&tr=tr=http%3A%2F%2Fbt4.t-ru.org%2Fann"
+          "url": "magnet:?xt=urn:btih:f17bd12d415ab0cf17c3761f35fd3bf4201f103e&dn=Moros+Protocol&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
         }
       ],
       "extra": {
         "uploader": "Yuri",
-        "cover": "https://meusite.com/cover.jpg"
+        "cover": "https://meusite.com/cover1.jpg"
+      }
+    },
+    {
+      "name": "Monster Care Simulator 1.0.3",
+      "platform": "windows",
+      "size": "1.4 GB",
+      "released": "2025-09-26T12:09:07.000Z",
+      "description": "Monster Care Simulator 1.0.3 - arquivo de teste",
+      "tags": ["simulador", "teste"],
+      "links": [
+        {
+          "type": "magnet",
+          "url": "magnet:?xt=urn:btih:a869864ed53a274cfb85845584610f59eda9de1e&dn=Monster+Care+Simulator&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+        }
+      ],
+      "extra": {
+        "uploader": "Yuri",
+        "cover": "https://meusite.com/cover2.jpg"
       }
     }
   ]
